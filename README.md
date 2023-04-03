@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil da Bruna Teixeira 😁
+## Bem-vindo(a) ao perfil da Bruna Teixeira !!!
 
  <div>
    <a href="https://github.com/brunateixeira06">
