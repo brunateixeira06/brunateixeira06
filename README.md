@@ -1,6 +1,7 @@
 ## Bem-vindo(a) ao perfil da Bruna 😁
 
-![banner (1)](https://github.com/brunateixeira06/brunateixeira06/assets/104105598/003828ac-9a57-49bb-a390-c5b118b10156)
+![banner (2)](https://github.com/brunateixeira06/brunateixeira06/assets/104105598/31161cba-d150-427b-a0fc-be466a703dc9)
+
 
  <div>
    <a href="https://github.com/brunateixeira06">
