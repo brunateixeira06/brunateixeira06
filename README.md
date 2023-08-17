@@ -1,5 +1,7 @@
 ## Bem-vindo(a) ao perfil da Bruna 😁
 
+![banner (1)](https://github.com/brunateixeira06/brunateixeira06/assets/104105598/003828ac-9a57-49bb-a390-c5b118b10156)
+
  <div>
    <a href="https://github.com/brunateixeira06">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brunateixeira06&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
@@ -13,6 +15,8 @@
 </div>
  
  <br>
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=brunateixeira06&theme=radical&hide_border=falso&mode=weekly)](https://git.io/streak-stats)
  
   ### Pra conteúdo sobre programação me segue a gente nas redes abaixo!
  
