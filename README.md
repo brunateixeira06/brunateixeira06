@@ -20,8 +20,8 @@
 
 ## **Visão geral 👉**
 
-<h4> 💻Minha trajetória profissional começou na área de Recursos Humanos, mas com o passar do tempo descobrir a área de tecnologia e me encantei. </h4>
-<h4> 🚀Atualmente estou estudando Desenvolvimento de Software, onde aprendo e pratico as linguagens HTML, CSS, JavaScript, React </h4>
+<h4> 💻Minha trajetória profissional começou na área de Recursos Humanos, mas com o passar do tempo descobrir a área de tecnologia e me apaixonei. </h4>
+<h4> 🚀Atualmente estou estudando Desenvolvimento de Software, onde aprendo e pratico as linguagens HTML, CSS, JavaScript, React. </h4>
 <h4> ✨Aqui você encontrará meus desafios e repositórios que faço enquanto estudo Front-End! </h4>
  
 
@@ -36,6 +36,9 @@
 
 </div>
 
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+
+
 ## **Skills 🚀**
 
 <p align="center">
@@ -49,7 +52,8 @@
 <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
 </p>
 
-  ### Pra conteúdo sobre programação me segue a gente nas redes abaixo!
+## Contact:
+
 <div>
     <a href ="https://www.linkedin.com/in/bruna-teixeira-18651a213/"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
